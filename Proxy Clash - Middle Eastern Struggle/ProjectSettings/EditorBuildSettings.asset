@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2a986f811dc1f41438e080baf84da17e
+  - enabled: 1
+    path: Assets/Scenes/Sidechooser.unity
+    guid: a1a2e5203a37743988bd67a17e100647
+  m_configObjects: {}
