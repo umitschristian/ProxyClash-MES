@@ -1,26 +1,20 @@
 ﻿<Properties StartupConfiguration="{A7988A94-FBAF-D6E7-8EDC-9C6643D2AAEE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PanalC.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MagnifyGlass.cs">
     <Files>
-      <File FileName="Assets/SceneSwitch.cs" Line="10" Column="44" NotebookId="1" />
-      <File FileName="Assets/Provinces.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="Assets/Assets/MagnifyGlass.cs" Line="75" Column="126" NotebookId="1" />
-      <File FileName="Assets/StreamingAssets/Mousee.cs" Line="19" Column="1" NotebookId="1" />
-      <File FileName="Assets/SB.cs" Line="13" Column="6" NotebookId="1" />
+      <File FileName="Assets/SceneSwitch.cs" Line="10" Column="44" />
+      <File FileName="Assets/Provinces.cs" Line="1" Column="1" />
+      <File FileName="Assets/StreamingAssets/Mousee.cs" Line="19" Column="1" />
+      <File FileName="Assets/SB.cs" Line="13" Column="6" />
+      <File FileName="Assets/PanalC.cs" Line="15" Column="47" />
+      <File FileName="Assets/MagnifyGlass.cs" Line="75" Column="83" />
     </Files>
-    <FloatingWindows>
-      <FloatingWindow WindowId="1" X="560" Y="473" Width="640" Height="480">
-        <Files>
-          <File FileName="Assets/PanalC.cs" Line="28" Column="3" />
-        </Files>
-      </FloatingWindow>
-    </FloatingWindows>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/christianrogers/Proxy Clash - Middle Eastern Struggle/Assets/Provinces.cs" relfile="Assets/Provinces.cs" line="297" column="1" />
+      <Breakpoint file="/Users/christianrogers/Documents/GitHub/ProxyClash-MES/Proxy Clash - Middle Eastern Struggle/Assets/Provinces.cs" relfile="Assets/Provinces.cs" line="297" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
