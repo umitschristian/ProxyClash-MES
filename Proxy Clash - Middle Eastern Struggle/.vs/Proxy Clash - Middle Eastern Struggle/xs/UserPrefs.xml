@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{A7988A94-FBAF-D6E7-8EDC-9C6643D2AAEE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MagnifyGlass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/NewBehaviourScript.cs">
     <Files>
-      <File FileName="Assets/SceneSwitch.cs" Line="10" Column="44" />
-      <File FileName="Assets/Provinces.cs" Line="1" Column="1" />
       <File FileName="Assets/StreamingAssets/Mousee.cs" Line="19" Column="1" />
-      <File FileName="Assets/SB.cs" Line="13" Column="6" />
-      <File FileName="Assets/PanalC.cs" Line="15" Column="47" />
-      <File FileName="Assets/MagnifyGlass.cs" Line="75" Column="83" />
+      <File FileName="Assets/Code/MagnifyGlass.cs" Line="44" Column="13" />
+      <File FileName="Assets/Code/PanalC.cs" Line="9" Column="3" />
+      <File FileName="Assets/Code/NewBehaviourScript.cs" Line="57" Column="8" />
+      <File FileName="Assets/Code/Provinces.cs" Line="11" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -10,9 +10,19 @@ public class MagnifyGlass : MonoBehaviour
     private float MGWidth = Screen.width / 5f, MGHeight = Screen.width / 5f; // Magnify glass width and height
     private Vector3 mousePos;
     int counter;
+    public static GameObject instance;
+    [SerializeField]
+    public MagnifyGlass()
+    {
+        instance = gameObject;
+    }
 
-     
-        void Start()
+    public void makeActive()
+    {
+       
+    }
+
+    void Start()
         {
 
 
@@ -24,22 +34,29 @@ public class MagnifyGlass : MonoBehaviour
         {
        
         counter++;
-       /* if (Input.GetKeyDown(KeyCode.M))
-        {
-            magnifyBorders.gameObject.SetActive(true);
-            magnifyCamera.gameObject.SetActive(true);
-        }
-        */
-       
-        if (Input.GetKey(KeyCode.M))
-        { 
-        magnifyCamera.gameObject.SetActive(true);
-            magnifyBorders.gameObject.SetActive(true);
+        /* if (Input.GetKeyDown(KeyCode.M))
+         {
+             magnifyBorders.gameObject.SetActive(true);
+             magnifyCamera.gameObject.SetActive(true);
          }
-       else
+         */
+
+        if (Input.GetKey(KeyCode.M))
         {
+            magnifyCamera.gameObject.SetActive(true);
+            magnifyBorders.gameObject.SetActive(true);
+           
+
+        }   
+        else
+        {
+           
+
+
             magnifyBorders.gameObject.SetActive(false);
             magnifyCamera.gameObject.SetActive(false);
+
+
         }
 
 

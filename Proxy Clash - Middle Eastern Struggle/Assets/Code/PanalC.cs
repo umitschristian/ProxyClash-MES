@@ -5,19 +5,19 @@ using UnityEngine.UI;
 
 public class PanalC : MonoBehaviour { 
 int counter;
-    public GameObject Panal;
 
+    public GameObject GOD;
     public void hidePanal()
     {
         counter++;
-        if (counter % 2 == 1)
+        if ( counter % 2 == 1)
         {
-            Panal.gameObject.SetActive(false);
+            gameObject.SetActive(false);
 
         }
         else
         {
-            Panal.gameObject.SetActive(true);
+            gameObject.SetActive(true);
         }
     }
 

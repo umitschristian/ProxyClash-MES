@@ -60,11 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MagnifyGlass.cs" />
-    <Compile Include="Assets\PanalC.cs" />
-    <Compile Include="Assets\Provinces.cs" />
-    <Compile Include="Assets\SB.cs" />
-    <Compile Include="Assets\SceneSwitch.cs" />
+    <Compile Include="Assets\Code\MagnifyGlass.cs" />
+    <Compile Include="Assets\Code\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Code\PanalC.cs" />
+    <Compile Include="Assets\Code\Provinces.cs" />
+    <Compile Include="Assets\Code\SB.cs" />
+    <Compile Include="Assets\Code\SceneSwitch.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
