@@ -1,2 +1,4 @@
 /Users/christianrogers/Proxy Clash - Middle Eastern Struggle/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
 /Users/christianrogers/Proxy Clash - Middle Eastern Struggle/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/christianrogers/Documents/GitHub/ProxyClash-MES/Proxy Clash - Middle Eastern Struggle/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/christianrogers/Documents/GitHub/ProxyClash-MES/Proxy Clash - Middle Eastern Struggle/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

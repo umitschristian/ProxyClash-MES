@@ -5,7 +5,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class NewBehaviourScript : MonoBehaviour
 {
-   
+
+    public GameObject Var2;
     public GameObject Var;
     /*
    private GameObject mygameo;
@@ -56,7 +57,15 @@ public class NewBehaviourScript : MonoBehaviour
     public void Update()
     {
 
-      
+
+        if (Input.GetKey(KeyCode.M))
+        {
+            Var2.gameObject.SetActive(true);
+        }
+        else
+        {
+            Var2.gameObject.SetActive(false);
+        }
 
 
         if (Input.GetKey(KeyCode.M)) {

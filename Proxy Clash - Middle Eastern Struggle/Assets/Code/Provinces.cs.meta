@@ -3,7 +3,19 @@ guid: 08b99d8a2d75f42d780855260828f54e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - thisthing: {fileID: 1624281508743935756, guid: 1a8355462320e4a9fbddf3eef5c0bdbe,
+      type: 3}
+  - mytext1: {instanceID: 0}
+  - mytext2: {instanceID: 0}
+  - mytext3: {instanceID: 0}
+  - mytext4: {instanceID: 0}
+  - mytext5: {instanceID: 0}
+  - mytext6: {instanceID: 0}
+  - mytext7: {instanceID: 0}
+  - mytext8: {instanceID: 0}
+  - mytext9: {instanceID: 0}
+  - mytext10: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

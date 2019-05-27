@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ProxyClassMiddleEasternStruggle_Incomplete.unity
+- path: Assets/Scenes/ProxyClassMiddleEasternStruggle_Incomplete.unity
   isLoaded: 1
   isActive: 1
